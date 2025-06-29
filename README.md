@@ -1,4 +1,4 @@
-# 📘 Stock Portfolio Tracker - GitHub Repository Documentation
+# 📘 Stock Portfolio Tracker
 
 This repository contains a simple, beginner-friendly Python project that helps users calculate their total stock investment value based on predefined stock prices.
 
